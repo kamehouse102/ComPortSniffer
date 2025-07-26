@@ -39,7 +39,7 @@ Windows PowerShell
 
 ![screenShot2](https://github.com/user-attachments/assets/170d7854-6f62-4474-a53c-9635a3acc6d9)
 
-コマンドプロンプト画面に通信データが表示されます。
+起動後はコマンドプロンプト画面に通信データが表示されます。
 
 ## Features
 ツールの動作としては、一方のCOMポートで受信したデータをもう一方のCOMポートへそのまま送信するだけです。
